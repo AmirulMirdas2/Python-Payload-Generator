@@ -1,7 +1,7 @@
 <div align="right">
 <b>English</b> | <a href="README.id.md">Bahasa Indonesia</a>
 </div>
-# Python Payload Generator (v3.0)
+## Python Payload Generator
 
 A command-line interface (CLI) tool written in Python to automatically generate obfuscated code injection payloads. This tool is designed to help security researchers and CTF players learn and bypass simple security filters.
 
@@ -31,7 +31,7 @@ No special installation is required. You only need **Python 3.x** installed on y
 
 Clone this repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Python-Payload-Generator.git](https://github.com/YOUR_USERNAME/Python-Payload-Generator.git)
+git clone https://github.com/AmirulMirdas2/Python-Payload-Generator.git
 cd Python-Payload-Generator
 ```
 
