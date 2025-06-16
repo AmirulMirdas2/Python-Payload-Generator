@@ -1,4 +1,4 @@
-# Python Payload Generator (v3.0)
+# Python Payload Generator
 
 Sebuah alat bantu baris perintah (CLI) yang ditulis dengan Python untuk membuat payload *code injection* yang ter-obfuscate secara otomatis. Alat ini dirancang untuk membantu para peneliti keamanan dan pemain CTF dalam mempelajari dan mem-bypass filter keamanan sederhana.
 
