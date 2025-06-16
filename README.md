@@ -1,3 +1,6 @@
+<div align="right">
+<b>English</b> | <a href="README.id.md">Bahasa Indonesia</a>
+</div>
 # Python Payload Generator
 
 Sebuah alat bantu baris perintah (CLI) yang ditulis dengan Python untuk membuat payload *code injection* yang ter-obfuscate secara otomatis. Alat ini dirancang untuk membantu para peneliti keamanan dan pemain CTF dalam mempelajari dan mem-bypass filter keamanan sederhana.
