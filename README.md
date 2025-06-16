@@ -28,7 +28,7 @@ Tidak diperlukan instalasi khusus. Anda hanya memerlukan **Python 3.x** yang sud
 
 Kloning repositori ini:
 ```bash
-git clone [https://github.com/NAMA_USER_ANDA/Python-Payload-Generator.git](https://github.com/NAMA_USER_ANDA/Python-Payload-Generator.git)
+git clone https://github.com/AmirulMirdas2/Python-Payload-Generator.git
 cd Python-Payload-Generator
 ```
 
